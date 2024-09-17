@@ -16,6 +16,7 @@ export const Interests = () => {
         porro ullam. Voluptatibus odit quasi temporibus voluptates, nam
         veritatis provident ea!
       </div>
+      <br></br>
       <div>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut debitis
         magnam dolor molestias sapiente voluptas quasi earum molestiae! Ut,
@@ -29,7 +30,7 @@ export const Interests = () => {
         porro ullam. Voluptatibus odit quasi temporibus voluptates, nam
         veritatis provident ea!
       </div>
-
+      <br></br>
       <div>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut debitis
         magnam dolor molestias sapiente voluptas quasi earum molestiae! Ut,
@@ -43,7 +44,7 @@ export const Interests = () => {
         porro ullam. Voluptatibus odit quasi temporibus voluptates, nam
         veritatis provident ea!
       </div>
-
+      <br></br>
       <div>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut debitis
         magnam dolor molestias sapiente voluptas quasi earum molestiae! Ut,
@@ -57,7 +58,7 @@ export const Interests = () => {
         porro ullam. Voluptatibus odit quasi temporibus voluptates, nam
         veritatis provident ea!
       </div>
-
+      <br></br>
       <div>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut debitis
         magnam dolor molestias sapiente voluptas quasi earum molestiae! Ut,
@@ -71,7 +72,7 @@ export const Interests = () => {
         porro ullam. Voluptatibus odit quasi temporibus voluptates, nam
         veritatis provident ea!
       </div>
-
+      <br></br>
       <div>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut debitis
         magnam dolor molestias sapiente voluptas quasi earum molestiae! Ut,
@@ -85,7 +86,7 @@ export const Interests = () => {
         porro ullam. Voluptatibus odit quasi temporibus voluptates, nam
         veritatis provident ea!
       </div>
-
+      <br></br>
       <div>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut debitis
         magnam dolor molestias sapiente voluptas quasi earum molestiae! Ut,
@@ -99,7 +100,7 @@ export const Interests = () => {
         porro ullam. Voluptatibus odit quasi temporibus voluptates, nam
         veritatis provident ea!
       </div>
-
+      <br></br>
       <div>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut debitis
         magnam dolor molestias sapiente voluptas quasi earum molestiae! Ut,
@@ -113,7 +114,7 @@ export const Interests = () => {
         porro ullam. Voluptatibus odit quasi temporibus voluptates, nam
         veritatis provident ea!
       </div>
-
+      <br></br>
       <div>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut debitis
         magnam dolor molestias sapiente voluptas quasi earum molestiae! Ut,

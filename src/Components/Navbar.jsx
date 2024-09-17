@@ -5,18 +5,18 @@ import "./Navbar.css";
 export const Navbar = () => {
   return (
     <nav>
-      <Link to="/" className="title">
+      <Link to="/navbar" className="title">
         Website
       </Link>
       <ul>
         <li>
-          <NavLink to="/interests">Interests</NavLink>
+          <NavLink to="/navbar/interests">Interests</NavLink>
         </li>
         <li>
-          <NavLink to="/projects">Projects</NavLink>
+          <NavLink to="/navbar/projects">Projects</NavLink>
         </li>
         <li>
-          <NavLink to="/resume">Resume</NavLink>
+          <NavLink to="/navbar/resume">Resume</NavLink>
         </li>
       </ul>
     </nav>
